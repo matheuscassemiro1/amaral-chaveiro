@@ -9,7 +9,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const payload = {
             form_name: "call-button",
             page_location: window.location.href,
-            click_text: (target.textContent || '').trim().replace(/\s+/g, ' ')
+            click_text: (target.textContent || '').trim().replace(/\s+/g, ' '),
+            data: new Date().toString(),
+            gclid: (new URLSearchParams(window.location.search)).get('gclid') || null
         };
 
         if (typeof gtag === 'function') {
@@ -46,7 +48,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const payload = {
             form_name: "whatsapp-button",
             page_location: window.location.href,
-            click_text: (target.textContent || '').trim().replace(/\s+/g, ' ')
+            click_text: (target.textContent || '').trim().replace(/\s+/g, ' '),
+            data: new Date().toString(),
+            gclid: (new URLSearchParams(window.location.search)).get('gclid') || null
         };
 
         if (typeof gtag === 'function') {

@@ -7,5 +7,3 @@ Disallow: /admin/
 Disallow: /private/
 
 Sitemap: https://amaralchaveiro.com.br/sitemap.xml
-
-Host: amaralchaveiro.com.br

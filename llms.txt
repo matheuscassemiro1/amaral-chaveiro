@@ -1,0 +1,79 @@
+# LLM.TXT
+# Site information for AI models and language models
+
+site_name: Amaral Chaveiro
+site_url: https://www.amaralchaveiro.com.br
+business_type: Locksmith services
+
+## Key Pages
+- [Homepage](https://amaralchaveiro.com.br)
+
+description:
+O Amaral Chaveiro é um chaveiro profissional localizado na cidade de São Mateus, Espírito Santo, Brasil. 
+Oferece serviços completos de chaveiro automotivo, residencial e comercial, incluindo abertura de portas, 
+confecção de chaves, cópia de chaves, programação de chaves automotivas com chip, troca de fechaduras e 
+atendimento emergencial. Número para contato: (27) 99910-4303
+
+location:
+city: São Mateus
+state: Espírito Santo
+country: Brasil
+
+service_area:
+São Mateus ES e região
+
+main_services:
+
+- Chaveiro automotivo
+- Abertura de carro trancado
+- Programação de chave com chip
+- Confecção de chave automotiva
+- Chave codificada
+- Cópia de chave de carro
+- Chave reserva automotiva
+
+- Chaveiro residencial
+- Abertura de portas residenciais
+- Troca de fechaduras
+- Instalação de fechaduras
+- Cópia de chave residencial
+- Conserto de fechadura
+
+- Chaveiro comercial
+- Instalação de fechaduras comerciais
+- Troca de segredo de fechadura
+- Manutenção de fechaduras
+- Sistemas de chave mestre
+
+common_user_questions:
+
+- Onde encontrar um chaveiro em São Mateus ES?
+- Quem faz chave automotiva em São Mateus?
+- Quanto custa abrir um carro trancado?
+- Chaveiro 24 horas em São Mateus ES
+- Onde fazer cópia de chave de carro em São Mateus?
+- Perdi a chave como abrir meu carro?
+- Chaveiro Guriri
+- Chaveiro São Mateus
+- Chaveiro em Guriri
+- Chaveiro em São Mateus
+
+expertise:
+
+Amaral Chaveiro possui experiência em serviços de chaveiro automotivo moderno, incluindo 
+programação de chaves codificadas e chaves com chip para diversos modelos de veículos. 
+Também atende serviços residenciais e comerciais com troca, manutenção e instalação de fechaduras.
+
+important_pages:
+
+https://www.amaralchaveiro.com.br/
+
+contact:
+phone:  +55 27 99910-4303
+website: https://www.amaralchaveiro.com.br
+city: São Mateus
+state: Espírito Santo
+country: Brasil
+
+language: pt-BR
+topic: locksmith services

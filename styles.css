@@ -347,6 +347,25 @@ small {
     color: var(--accent)
 }
 
+.div-services {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.div-service-photo {
+    flex: 1 1 30%;
+    margin: 2px;
+}
+
+.service-photo {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 20px !important;
+}
+
 .v2 {
     color: var(--accent-2)
 }
@@ -360,6 +379,26 @@ input:focus {
 }
 
 @media (max-width:880px) {
+    .div-services {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .div-service-photo {
+        flex: 1 1 55%;
+        margin: 2px;
+
+    }
+
+    .service-photo {
+        height: 200px;
+        object-fit: cover;
+        border-radius: 20px !important;
+    }
+
     .svc {
         justify-content: center !important;
     }
